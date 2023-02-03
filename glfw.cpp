@@ -33,3 +33,5 @@ void drawCircle(float cx, float cy, float r, int num_segments)
     }
     glEnd();
 }
+int main(){
+drawCircle(250, 250, 100, 360);}
